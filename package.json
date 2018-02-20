@@ -39,6 +39,7 @@
     "extends": "google"
   },
   "dependencies": {
-    "foundation-sites": "^6.4.4-rc1"
+    "foundation-sites": "^6.4.4-rc1",
+    "normalize.css": "^8.0.0"
   }
 }
